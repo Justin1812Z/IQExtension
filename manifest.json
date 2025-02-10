@@ -1,10 +1,10 @@
 {
     "name": "IQ Extensions",
     "description": "Base Level Extension",
-    "version": ".10",
+    "version": "1.0",
     "manifest_version": 3,
     "action": {
       "default_popup": "index.html",
-      "default_icon": "icon.png"
+      "default_icon": "IQ.jpg"
     }
   }
